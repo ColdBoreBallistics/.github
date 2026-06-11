@@ -8,7 +8,7 @@ Precision rifle ballistics software and open data standards.
 A ballistics calculator and DOPE management app for precision rifle shooters. Available on Android, with iOS and web in development.
 
 ### .dope Format
-An open, cross-platform JSON format for precision rifle ballistics sessions. CC0 licensed — free for anyone to implement, with no restrictions.
+An open, cross-platform JSON format for precision rifle ballistics sessions. More details coming.
 
 → [dope-format specification](https://github.com/ColdBoreBallistics/dope-format)
 
